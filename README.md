@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## Hola mi nombre es Danna Lagos
-![Alt](![Uploading image.png…]()
+![Alt](https://cdn-icons-png.flaticon.com/512/2335/2335153.png)
 )
 <!--
 **DannaLagos/DannaLagos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
