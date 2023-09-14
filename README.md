@@ -10,7 +10,8 @@
 
 # 💫 About Me:
 <br>Tengo 19 años<br>Soy del municipio de policarpa<br>Vivo en la ciudad de Pasto<br>Estudio ingenieria de sistemas <br>
-
+# Mis aspiraciones a futuro😄 
+<br>Tener una vida plena<br>Un trabajo bien remuderado<br>Tener un apartamento<br>Tener un carro<br>Aprender a programar<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/DannaLagos) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/DannaLagos) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@DannaLagos) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DannaLagos) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@DannaLagos) 
