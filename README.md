@@ -4,6 +4,7 @@
 ##Soy estudiante de la Universidad Mariana
 	
 ![Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwWvgyjZrctBfeVO3vROFkfri55yjXuH8_WhtasDtCyyXAYSlcoHGFfRTzbhnq0B7fQBY&usqp=CAU)
+
 # 💫 About Me:
 <br>tengo 19 años<br>Soy del municipio de policarpa<br>vivo en la ciudad de Pasto<br>Estudio ingenieria de sistemas <br>
 
