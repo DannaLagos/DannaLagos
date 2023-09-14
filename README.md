@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## Hola mi nombre es Danna Lagos
-![Alt](https://cdn-icons-png.flaticon.com/512/2335/2335153.png)
+![Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoWGmU6TlPZDnuVu2oXBQWuc6XD-S9nGyzrQ&usqp=CAU)
 
 
 ## Soy estudiante de la Universidad Mariana
